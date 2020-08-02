@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java0208:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java0208_jar</output-path>
+    <root id="archive" name="Java0208.jar">
+      <element id="module-output" name="Java0208" />
+    </root>
+  </artifact>
+</component>
